@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0835-image-overlap) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 ## Binary Search
 |  |
@@ -71,5 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0835-image-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
