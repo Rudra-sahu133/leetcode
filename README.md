@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-sahu133/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/Rudra-sahu133/leetcode/tree/master/0838-push-dominoes) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Matrix
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1400-construct-k-palindrome-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/1400-construct-k-palindrome-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
