@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rudra-sahu133/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Rudra-sahu133/leetcode/tree/master/3574-maximize-subarray-gcd-score) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rudra-sahu133/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Rudra-sahu133/leetcode/tree/master/3574-maximize-subarray-gcd-score) |
 ## Sliding Window
 |  |
