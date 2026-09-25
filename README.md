@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0835-image-overlap) |
 | [1093-statistics-from-a-large-sample](https://github.com/Rudra-sahu133/leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rudra-sahu133/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudra-sahu133/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-sahu133/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
+| [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Segment Tree
 |  |
