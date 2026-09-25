@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0835-image-overlap) |
+| [1093-statistics-from-a-large-sample](https://github.com/Rudra-sahu133/leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rudra-sahu133/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0836-rectangle-overlap) |
+| [1093-statistics-from-a-large-sample](https://github.com/Rudra-sahu133/leetcode/tree/master/1093-statistics-from-a-large-sample) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rudra-sahu133/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudra-sahu133/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2469-convert-the-temperature](https://github.com/Rudra-sahu133/leetcode/tree/master/2469-convert-the-temperature) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/1096-brace-expansion-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1093-statistics-from-a-large-sample](https://github.com/Rudra-sahu133/leetcode/tree/master/1093-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->
