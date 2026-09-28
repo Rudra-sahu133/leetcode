@@ -210,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-sahu133/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [1615-maximal-network-rank](https://github.com/Rudra-sahu133/leetcode/tree/master/1615-maximal-network-rank) |
 <!---LeetCode Topics End-->
