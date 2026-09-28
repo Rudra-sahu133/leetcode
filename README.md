@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1400-construct-k-palindrome-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-sahu133/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rudra-sahu133/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-sahu133/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 ## Simulation
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1093-statistics-from-a-large-sample](https://github.com/Rudra-sahu133/leetcode/tree/master/1093-statistics-from-a-large-sample) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-sahu133/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
