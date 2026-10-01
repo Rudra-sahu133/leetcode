@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2469-convert-the-temperature](https://github.com/Rudra-sahu133/leetcode/tree/master/2469-convert-the-temperature) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Rudra-sahu133/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rudra-sahu133/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Rudra-sahu133/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Geometry
 |  |
 | ------- |
