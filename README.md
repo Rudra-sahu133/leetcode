@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/1096-brace-expansion-ii) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -232,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-maximal-network-rank](https://github.com/Rudra-sahu133/leetcode/tree/master/1615-maximal-network-rank) |
+## Tree
+|  |
+| ------- |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
