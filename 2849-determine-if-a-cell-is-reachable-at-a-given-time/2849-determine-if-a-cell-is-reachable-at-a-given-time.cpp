@@ -26,18 +26,19 @@ public:
         if (t < st) {
             return false;
         }
-        else if (t == st) return true ;
+        else return true;
+        // else if (t == st) return true ;
 
-        else if (t >= st && t <= abs(sx - fx) + abs(sy-fy)) return  true; 
+        // else if (t >= st && t <= abs(sx - fx) + abs(sy-fy)) return  true; 
 
         
-        else  {
-            if ( t - ((abs(sx - fx) + abs(sy-fy))) % 2 == 0){
-                return true ;
-            }
-            else if ( (t- st ) % 2 == 0) return true ;
+        // else  {
+        //     if ( t - ((abs(sx - fx) + abs(sy-fy))) % 2 == 0){
+        //         return true ;
+        //     }
+        //     else if ( (t- st ) % 2 == 0) return true ;
             
-            else return true ;
-        }
+        //     else return true ;
+        // }
     }
 };
