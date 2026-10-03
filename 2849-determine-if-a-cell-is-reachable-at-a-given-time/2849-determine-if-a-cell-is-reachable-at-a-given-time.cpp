@@ -6,23 +6,23 @@ public:
              else return true;
             
         }
-        if (sx == fx){
-            int dt = abs(sy-fy);
-            if (dt > t) return false;
-            return true;
-        }
-        if (fy == sy){
-            int dt = abs(sx-fx);
-            if (dt > t) return false;
-            return true;
-        }
+        // if (sx == fx){
+        //     int dt = abs(sy-fy);
+        //     if (dt > t) return false;
+        //     return true;
+        // }
+        // if (fy == sy){
+        //     int dt = abs(sx-fx);
+        //     if (dt > t) return false;
+        //     return true;
+        // }
         int mn = min(abs(sx - fx) ,  abs(sy-fy));
         int st = abs(sx - fx) - mn + abs(sy-fy) ;
-        if (mn == 0){
-            if (t ==  0) return true;
-            else return false;
+        // if (mn == 0){
+        //     if (t ==  0) return true;
+        //     else return false;
 
-        }
+        // }
         if (t < st) {
             return false;
         }
