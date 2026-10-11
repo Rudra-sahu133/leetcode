@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2848-points-that-intersect-with-cars](https://github.com/Rudra-sahu133/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-sahu133/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-sahu133/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Matrix
