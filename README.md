@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudra-sahu133/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/Rudra-sahu133/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Rudra-sahu133/leetcode/tree/master/1620-coordinate-with-maximum-network-quality) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
