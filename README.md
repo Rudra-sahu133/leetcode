@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Rudra-sahu133/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2848-points-that-intersect-with-cars](https://github.com/Rudra-sahu133/leetcode/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/Rudra-sahu133/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Rudra-sahu133/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2848-points-that-intersect-with-cars](https://github.com/Rudra-sahu133/leetcode/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/Rudra-sahu133/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/Rudra-sahu133/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Rudra-sahu133/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Geometry
