@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rudra-sahu133/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Rudra-sahu133/leetcode/tree/master/3574-maximize-subarray-gcd-score) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rudra-sahu133/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
