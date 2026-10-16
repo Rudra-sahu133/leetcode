@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rudra-sahu133/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
