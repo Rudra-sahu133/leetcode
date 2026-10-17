@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rudra-sahu133/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Rudra-sahu133/leetcode/tree/master/3574-maximize-subarray-gcd-score) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Recursion
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/Rudra-sahu133/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2895-minimum-processing-time](https://github.com/Rudra-sahu133/leetcode/tree/master/2895-minimum-processing-time) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
