@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1620-coordinate-with-maximum-network-quality](https://github.com/Rudra-sahu133/leetcode/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Rudra-sahu133/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Rudra-sahu133/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rudra-sahu133/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudra-sahu133/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 ## Monotonic Stack
 |  |
 | ------- |
