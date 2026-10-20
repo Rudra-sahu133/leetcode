@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/Rudra-sahu133/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/Rudra-sahu133/leetcode/tree/master/2895-minimum-processing-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/Rudra-sahu133/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rudra-sahu133/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Rudra-sahu133/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2895-minimum-processing-time](https://github.com/Rudra-sahu133/leetcode/tree/master/2895-minimum-processing-time) |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudra-sahu133/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Segment Tree
 |  |
