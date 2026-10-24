@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Rudra-sahu133/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rudra-sahu133/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rudra-sahu133/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudra-sahu133/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [2409-count-days-spent-together](https://github.com/Rudra-sahu133/leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Rudra-sahu133/leetcode/tree/master/2469-convert-the-temperature) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Rudra-sahu133/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
