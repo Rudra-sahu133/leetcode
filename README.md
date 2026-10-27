@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-sahu133/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Rudra-sahu133/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2126-destroying-asteroids](https://github.com/Rudra-sahu133/leetcode/tree/master/2126-destroying-asteroids) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudra-sahu133/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rudra-sahu133/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2126-destroying-asteroids](https://github.com/Rudra-sahu133/leetcode/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rudra-sahu133/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-sahu133/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/Rudra-sahu133/leetcode/tree/master/2126-destroying-asteroids) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rudra-sahu133/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
