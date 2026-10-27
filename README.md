@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Rudra-sahu133/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/Rudra-sahu133/leetcode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/Rudra-sahu133/leetcode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Math
 |  |
 | ------- |
