@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rudra-sahu133/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rudra-sahu133/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rudra-sahu133/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3941-password-strength](https://github.com/Rudra-sahu133/leetcode/tree/master/3941-password-strength) |
 ## Recursion
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rudra-sahu133/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/Rudra-sahu133/leetcode/tree/master/3941-password-strength) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/1400-construct-k-palindrome-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
