@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0835-image-overlap) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Rudra-sahu133/leetcode/tree/master/0836-rectangle-overlap) |
 | [1093-statistics-from-a-large-sample](https://github.com/Rudra-sahu133/leetcode/tree/master/1093-statistics-from-a-large-sample) |
