@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rudra-sahu133/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Rudra-sahu133/leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Rudra-sahu133/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rudra-sahu133/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3941-password-strength](https://github.com/Rudra-sahu133/leetcode/tree/master/3941-password-strength) |
 ## Recursion
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Rudra-sahu133/leetcode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Math
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rudra-sahu133/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rudra-sahu133/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rudra-sahu133/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -445,4 +450,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
