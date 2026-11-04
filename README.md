@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Rudra-sahu133/leetcode/tree/master/3574-maximize-subarray-gcd-score) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Rudra-sahu133/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3886-sum-of-sortable-integers](https://github.com/Rudra-sahu133/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3838-weighted-word-mapping](https://github.com/Rudra-sahu133/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudra-sahu133/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Rudra-sahu133/leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rudra-sahu133/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Rudra-sahu133/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rudra-sahu133/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Rudra-sahu133/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 ## Bit Manipulation
 |  |
