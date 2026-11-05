@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Rudra-sahu133/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Rudra-sahu133/leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rudra-sahu133/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-sahu133/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rudra-sahu133/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rudra-sahu133/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-sahu133/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-sahu133/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rudra-sahu133/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [1096-brace-expansion-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-sahu133/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rudra-sahu133/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [0838-push-dominoes](https://github.com/Rudra-sahu133/leetcode/tree/master/0838-push-dominoes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rudra-sahu133/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Rudra-sahu133/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rudra-sahu133/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
