@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rudra-sahu133/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rudra-sahu133/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Rudra-sahu133/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-sahu133/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rudra-sahu133/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rudra-sahu133/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Rudra-sahu133/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Rudra-sahu133/leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2848-points-that-intersect-with-cars](https://github.com/Rudra-sahu133/leetcode/tree/master/2848-points-that-intersect-with-cars) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Rudra-sahu133/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rudra-sahu133/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rudra-sahu133/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rudra-sahu133/leetcode/tree/master/0832-flipping-an-image) |
 | [1094-car-pooling](https://github.com/Rudra-sahu133/leetcode/tree/master/1094-car-pooling) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rudra-sahu133/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Rudra-sahu133/leetcode/tree/master/3838-weighted-word-mapping) |
