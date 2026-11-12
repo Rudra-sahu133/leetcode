@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rudra-sahu133/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rudra-sahu133/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rudra-sahu133/leetcode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/Rudra-sahu133/leetcode/tree/master/2910-minimum-number-of-groups-to-create-a-valid-assignment) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rudra-sahu133/leetcode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Rudra-sahu133/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rudra-sahu133/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
