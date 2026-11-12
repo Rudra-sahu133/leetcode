@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
