@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Rudra-sahu133/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3366-minimum-array-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3366-minimum-array-sum) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rudra-sahu133/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudra-sahu133/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3366-minimum-array-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3366-minimum-array-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rudra-sahu133/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
