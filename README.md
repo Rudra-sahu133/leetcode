@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Rudra-sahu133/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Rudra-sahu133/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Rudra-sahu133/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2747-count-zero-request-servers](https://github.com/Rudra-sahu133/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rudra-sahu133/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Number Theory
