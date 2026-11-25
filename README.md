@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rudra-sahu133/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rudra-sahu133/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rudra-sahu133/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Rudra-sahu133/leetcode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/Rudra-sahu133/leetcode/tree/master/3941-password-strength) |
 ## Recursion
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rudra-sahu133/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Rudra-sahu133/leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -534,4 +537,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rudra-sahu133/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
