@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Rudra-sahu133/leetcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rudra-sahu133/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/Rudra-sahu133/leetcode/tree/master/2928-distribute-candies-among-children-i) |
+| [3360-stone-removal-game](https://github.com/Rudra-sahu133/leetcode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Rudra-sahu133/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rudra-sahu133/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rudra-sahu133/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rudra-sahu133/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rudra-sahu133/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3360-stone-removal-game](https://github.com/Rudra-sahu133/leetcode/tree/master/3360-stone-removal-game) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Rudra-sahu133/leetcode/tree/master/3838-weighted-word-mapping) |
