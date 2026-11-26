@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Rudra-sahu133/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3361-shift-distance-between-two-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/3361-shift-distance-between-two-strings) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Rudra-sahu133/leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3366-minimum-array-sum) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudra-sahu133/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rudra-sahu133/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rudra-sahu133/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Rudra-sahu133/leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3366-minimum-array-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3366-minimum-array-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rudra-sahu133/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rudra-sahu133/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rudra-sahu133/leetcode/tree/master/2931-maximum-spending-after-buying-items) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Rudra-sahu133/leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rudra-sahu133/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
