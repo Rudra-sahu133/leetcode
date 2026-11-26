@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Rudra-sahu133/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Rudra-sahu133/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3361-shift-distance-between-two-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/3361-shift-distance-between-two-strings) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3366-minimum-array-sum](https://github.com/Rudra-sahu133/leetcode/tree/master/3366-minimum-array-sum) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/Rudra-sahu133/leetcode/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rudra-sahu133/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Rudra-sahu133/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3361-shift-distance-between-two-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/3361-shift-distance-between-two-strings) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3412-find-mirror-score-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rudra-sahu133/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Rudra-sahu133/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rudra-sahu133/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3361-shift-distance-between-two-strings](https://github.com/Rudra-sahu133/leetcode/tree/master/3361-shift-distance-between-two-strings) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rudra-sahu133/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Rudra-sahu133/leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
