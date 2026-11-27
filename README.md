@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Rudra-sahu133/leetcode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/Rudra-sahu133/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/Rudra-sahu133/leetcode/tree/master/3941-password-strength) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rudra-sahu133/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -560,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Queue
+|  |
+| ------- |
+| [3948-lexicographically-maximum-mex-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3948-lexicographically-maximum-mex-array) |
 <!---LeetCode Topics End-->
