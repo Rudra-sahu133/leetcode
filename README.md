@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Rudra-sahu133/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/Rudra-sahu133/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rudra-sahu133/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/Rudra-sahu133/leetcode/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Rudra-sahu133/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Rudra-sahu133/leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rudra-sahu133/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3724-minimum-operations-to-transform-array](https://github.com/Rudra-sahu133/leetcode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rudra-sahu133/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rudra-sahu133/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Rudra-sahu133/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
